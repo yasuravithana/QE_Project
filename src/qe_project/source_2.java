@@ -10,6 +10,6 @@ package qe_project;
  *
  * @author Hashini
  */
-public class source1 {
+public class source_2 {
     
 }
